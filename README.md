@@ -1,8 +1,5 @@
 # cult-journalists
 
-DumboDisney Proudly Presents:
-Dumbo as in Jumbo!
-
 The Guild of Journalism:
 
 Initiation is a drive-by.
